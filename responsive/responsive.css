@@ -1,0 +1,43 @@
+@media (max-width: 1199px) {
+    .tiny-email{
+        width: 85%;
+    }
+}
+@media (max-width: 991px) {
+    .tiny-social-icons{
+        display: none;
+    }
+    .tiny-follow{
+        display: block;
+    }
+    .tiny-slide ul li{
+        width: 50px;
+        height: 50px;
+    }
+    .tiny-slide ul li i{
+        font-size: 25px;
+    }
+    .tiny-slide{
+        padding: 100px 0;
+    }
+    .tiny-feature-contant{
+        padding: 20px 0;
+    }
+    .tiny-footer-text ul{
+        margin-bottom: 25px 0;
+    }
+}
+@media (max-width: 767px) {
+    .tiny-email{
+        width: 80%;
+    }
+}
+@media (max-width: 575px) {
+    .tiny-subscribtion form{
+        display: block;
+    }
+    .tiny-email{
+        width: 100%;
+        margin-bottom: 15px;
+    }
+}
